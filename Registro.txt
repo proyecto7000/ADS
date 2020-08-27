@@ -1,3 +1,4 @@
 Hola este mensaje fue publicado por el profesor
 Hola este mensaje fue publicado por un colaborador
-Este cambio lo hice como usuario ******  Profesor7000 **********
+Este cambio lo hice como usuario ******  PROFESOR7000 **********
+Este cambio lo hice como usuario -------  proyecto7000 ---------
